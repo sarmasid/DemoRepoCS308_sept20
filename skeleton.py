@@ -15,7 +15,7 @@
 # Paddy
 #def getNumWords():
 	# Write code here
-
+	return "hello!"
 
 
 str = 'The Good The Bad and The Ugly'
