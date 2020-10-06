@@ -12,11 +12,17 @@
 	# Write the code here
 
 
+# Paddy
+#def getNumWords():
+	# Write code here
+
+
 
 str = 'The Good The Bad and The Ugly'
 print(str)
 print(getFirstWord(str))
 print(getLastWord(str))
+print(getNumWords(str))
 
 
 
