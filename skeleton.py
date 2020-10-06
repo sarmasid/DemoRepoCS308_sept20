@@ -8,8 +8,10 @@
 
 
 # Avantika
-#def getLatWord():
-	# Write the code here
+#def getLastWord(string):
+   word_list = str.split()
+   return word_list[-1]
+	
 
 
 # Paddy
