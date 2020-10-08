@@ -17,7 +17,9 @@
 # Paddy
 #def getNumWords():
 	# Write code here
-	#print("Hello!")
+
+	print("adding a new line on Thursday 8 Oct")
+
 	return "hello!"
 
 
