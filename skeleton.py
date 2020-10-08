@@ -8,14 +8,18 @@
 
 
 # Avantika
-#def getLatWord():
-	# Write the code here
+#def getLastWord(string):
+   word_list = str.split()
+   return word_list[-1]
+	
 
 
 # Paddy
 #def getNumWords():
 	# Write code here
+
 	print("adding a new line on Thursday 8 Oct")
+
 	return "hello!"
 
 
